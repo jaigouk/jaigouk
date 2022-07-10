@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Golang
-- :heart_eyes: DDD, [Domain Story telling](https://domainstorytelling.org/), Event based system
+- :heart_eyes: DDD, [Domain Story telling](https://domainstorytelling.org/), Event based system, self hosted tools, k3s
 - :bike: Increasing the quality of life
 - :car: Right a wrong
 - :airplane: Preventing the end of something good
