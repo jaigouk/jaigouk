@@ -1,21 +1,16 @@
 ### Hi there 👋
 
+- Increasing the quality of life
+- Right a wrong
+- Preventing the end of something good
+
+---
+
 - 🌱 Golang
 - :heart_eyes: DDD, [Domain Story telling](https://domainstorytelling.org/), Event based system, self hosted tools, k3s
-- :bike: Increasing the quality of life
-- :car: Right a wrong
-- :airplane: Preventing the end of something good
 
-<!--
-*jaigouk/jaigouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+	<a href="https://github.com/jaigouk"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaigouk&count_private=true&show_icons=true&hide_title=true" alt="GitHub Stats" align="left"></a>
+	<a href="https://github.com/jaigouk"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaigouk&layout=compact&hide_title=true" alt="Top Langs" align="right"></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
