@@ -19,5 +19,4 @@
 
 <br/><br/>
 
-- 🌱 Golang
 - :heart_eyes: DDD, [Domain Story telling](https://domainstorytelling.org/), Event based system, self hosted tools, k3s
