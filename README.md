@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/jaigouk/">
     <img src="https://img.shields.io/badge/-Jaigouk%20Kim-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  <a href="mailto:ping@jaigouk.kim">
-    <img src="https://img.shields.io/badge/ping@jaigouk.kim-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
 </p>
 
 
